@@ -23,7 +23,7 @@ The chatbot is built with **Dialogflow**, while **Firebase** handles authenticat
 ---
 
 ## 📷 Screenshots
-![Vinci](images/aproject-vinci.png)
+![Vinci](images/project-vinci.png)
 
 ---
 
